@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "DnD/StatBlocks/Normal Guard.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "DnD/StatBlocks/Normal Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,12 @@
   },
   "active": "ab9dbe03bb4fce26",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md"
+    "DnD/StatBlocks/Untitled.md",
+    "Pasted image 20240324124929.png",
+    "README.md",
+    "Untitled.md",
+    "King Bildor.md",
+    "Ironforge Keep.md",
+    "Untitled 1.md"
   ]
 }
