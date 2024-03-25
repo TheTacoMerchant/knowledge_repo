@@ -4,6 +4,3 @@ Kamilla, all is prepared. When the operation is confirmed successful, we will be
 
 Blood and stone,
 Bildor Ironforge
-
----------
-Location: Murdoch's temporary hideout in Tailwind
