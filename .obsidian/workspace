@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/StatBlocks/Normal Guard.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/StatBlocks/Normal Guard.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "ab9dbe03bb4fce26",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DnD/Characters/King Bildor.md",
+    "The Merchant Guild.md",
+    "DnD/Characters/Untitled.md",
+    "DnD/StatBlocks/Normal Guard.md",
     "DnD/StatBlocks/Untitled.md",
     "Pasted image 20240324124929.png",
     "README.md",
-    "Untitled.md",
     "King Bildor.md",
-    "Ironforge Keep.md",
-    "Untitled 1.md"
+    "Ironforge Keep.md"
   ]
 }
