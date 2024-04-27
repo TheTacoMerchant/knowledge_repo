@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7aa7336ccf7bf43",
+            "id": "954cea7f19e5ba65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Characters/Cillian Layerlin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48f845edb1b7a417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/StatBlocks/Murdoch's Servant Demon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69dc9bd4161de9b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Events/Betting-Gambling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec69155d718ed325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Events/Betting-Gambling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd3b10e86e3d4e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Spells/Conjure Elemental.md",
+                "file": "DnD/Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Events/Betting-Gambling.md",
+                "file": "DnD/Sessions/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,12 +112,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec69155d718ed325",
+  "active": "954cea7f19e5ba65",
   "lastOpenFiles": [
-    "DnD/Events/The Dreams.md",
+    "DnD/Players/Bilberry Bramblewood.md",
+    "DnD/Players/Bromin Ironforge.md",
+    "DnD/Sessions/Session 6.md",
     "DnD/Characters/Cillian Layerlin.md",
-    "DnD/StatBlocks/Murdoch's Servant Demon.md",
-    "DnD/Locations/Harden.md",
+    "DnD/Players/Finnian Nightshade.md",
+    "DnD/Players/Isolde Malacai.md",
+    "DnD/Characters/Murdoch.md",
+    "David Spade.md",
+    "DnD/Characters/King Bildor.md",
+    "DnD/Sessions",
+    "DnD/Characters/Samothes Phyloxi.md",
+    "DnD/Players",
+    "DnD/Events/The Dreams.md",
+    "Conjure Elemental.md",
     "DnD/Spells/Conjure Elemental.md",
     "DnD/Spells",
     "Pasted image 20240413144802.png",
@@ -177,10 +138,11 @@
     "DnD/Events",
     "Pasted image 20240413092439.png",
     "Pasted image 20240413092419.png",
+    "DnD/StatBlocks/Murdoch's Servant Demon.md",
     "Pasted image 20240413092039.png",
     "DnD/StatBlocks/King's Gaurd.md",
-    "DnD/Characters/King Bildor.md",
     "Samothes Phyloxi.md",
+    "DnD/Locations/Harden.md",
     "DnD/Locations"
   ]
 }
