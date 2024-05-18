@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Sessions/Session 6.md",
+                "file": "DnD/Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Sessions/Session 6.md",
+                "file": "DnD/Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,11 @@
   },
   "active": "954cea7f19e5ba65",
   "lastOpenFiles": [
+    "DnD/Sessions/Session 7.md",
+    "DnD/Names.md",
+    "DnD/Sessions/Session 6.md",
     "DnD/Players/Bilberry Bramblewood.md",
     "DnD/Players/Bromin Ironforge.md",
-    "DnD/Sessions/Session 6.md",
     "DnD/Characters/Cillian Layerlin.md",
     "DnD/Players/Finnian Nightshade.md",
     "DnD/Players/Isolde Malacai.md",
