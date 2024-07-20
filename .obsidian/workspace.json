@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Names.md",
+                "file": "DnD/Sessions/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26d3c485098551b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Sessions/Session 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Names.md",
+                "file": "DnD/Sessions/Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +125,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "954cea7f19e5ba65",
+  "active": "26d3c485098551b0",
   "lastOpenFiles": [
-    "DnD/Sessions/Session 7.md",
-    "DnD/Names.md",
     "DnD/Sessions/Session 6.md",
+    "DnD/Sessions/Session 7.md",
+    "DnD/Sessions/Session 8.md",
+    "Pasted image 20240720125909.png",
+    "Pasted image 20240720125753.png",
+    "Pasted image 20240720125724.png",
+    "Pasted image 20240720125607.png",
+    "DnD/Names.md",
     "DnD/Players/Bilberry Bramblewood.md",
     "DnD/Players/Bromin Ironforge.md",
     "DnD/Characters/Cillian Layerlin.md",
@@ -141,7 +159,6 @@
     "Pasted image 20240413092439.png",
     "Pasted image 20240413092419.png",
     "DnD/StatBlocks/Murdoch's Servant Demon.md",
-    "Pasted image 20240413092039.png",
     "DnD/StatBlocks/King's Gaurd.md",
     "Samothes Phyloxi.md",
     "DnD/Locations/Harden.md",
