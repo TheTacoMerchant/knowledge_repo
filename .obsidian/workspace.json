@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Sessions/Session 8.md",
+                "file": "DnD/Sessions/Session 9.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bbef8b507fe6c0f2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Sessions/Session 8.md",
+                "file": "DnD/Sessions/Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +125,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bbef8b507fe6c0f2",
+  "active": "26d3c485098551b0",
   "lastOpenFiles": [
+    "DnD/Sessions/Session 8.md",
+    "DnD/Sessions/Session 9.md",
+    "Pasted image 20240907090957.png",
     "DnD/Sessions/Session 6.md",
     "DnD/Sessions/Session 7.md",
-    "DnD/Sessions/Session 8.md",
+    "Pasted image 20240907090716.png",
+    "Pasted image 20240907085954.png",
+    "Pasted image 20240907085618.png",
     "Pasted image 20240720125909.png",
     "Pasted image 20240720125753.png",
     "Pasted image 20240720125724.png",
@@ -162,12 +157,8 @@
     "DnD/Spells",
     "Pasted image 20240413144802.png",
     "Pasted image 20240413144737.png",
-    "Pasted image 20240413143344.png",
-    "Pasted image 20240413141715.png",
     "DnD/Events/Betting-Gambling.md",
     "DnD/Events",
-    "Pasted image 20240413092439.png",
-    "Pasted image 20240413092419.png",
     "DnD/StatBlocks/Murdoch's Servant Demon.md",
     "DnD/StatBlocks/King's Gaurd.md",
     "Samothes Phyloxi.md",
