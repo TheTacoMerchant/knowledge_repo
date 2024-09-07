@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbef8b507fe6c0f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26d3c485098551b0",
+  "active": "bbef8b507fe6c0f2",
   "lastOpenFiles": [
     "DnD/Sessions/Session 6.md",
     "DnD/Sessions/Session 7.md",
