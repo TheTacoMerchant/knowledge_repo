@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Sessions/Session 9.md",
+                "file": "DnD/Sessions/Session 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "57a0a998f48a7eff",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Sessions/Session 9.md",
+                "file": "DnD/Sessions/Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +127,9 @@
   },
   "active": "26d3c485098551b0",
   "lastOpenFiles": [
-    "DnD/Sessions/Session 8.md",
     "DnD/Sessions/Session 9.md",
+    "DnD/Sessions/Session 10.md",
+    "DnD/Sessions/Session 8.md",
     "Pasted image 20240907090957.png",
     "DnD/Sessions/Session 6.md",
     "DnD/Sessions/Session 7.md",
